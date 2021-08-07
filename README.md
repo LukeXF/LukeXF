@@ -2,9 +2,7 @@
 
 I run [Element Softworks](https://elementsoftworks.co.uk) and I am the CTO at [SkipperMyBoat](https://skippermyboat).
 
-Currently I'm building a SaaS product called I run [Merlin Panel](https://merlinpanel.com) - check it out, I've spent over 600 hours working on it with [@joemethven](https://github.com/JoeMethven).
-
-I spent most my time running Element Softworks and building Node.JS RESTful APIs along with project managing most website our company makes in (React.js) Gatsby.js
+I spent most my time running Element Softworks and building Node.JS RESTful APIs and websites in (React.js) Gatsby.js
 
 95% of my work is private, but here's some stats anyway:
 
